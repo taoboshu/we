@@ -1,0 +1,160 @@
+.about_banner{
+    background: url(img/images/hx_banner.jpg) no-repeat center top;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 5.2rem;
+    padding-top: 1.29rem;
+}
+.about_bannern{
+    width: 2.02rem;
+    height: 3.9rem;
+    background: rgba(95,81,115,0.9);
+    margin-left: 0.29rem;
+    color: #fff;
+}
+.about_bannern p{
+    font-size: 0.36rem;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 1.22rem;
+}
+.about_bannern span{
+    font-size: 0.2rem;
+    text-align: right;
+    display: block;
+    width: 100%;
+    margin-top: 0.05rem;
+    text-transform: uppercase;
+}
+.item{
+    background: #fff;
+    box-shadow: 0px 2px 15px #e5e5e5;
+    margin-top: 0.38rem;
+    margin: 0 4.27%;
+}
+.item p{
+    width: 4.78rem;
+    height: 0.78rem;
+    line-height: 0.78rem;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    margin-top: -0.8rem;
+    border-top-right-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+}
+.item input{
+    width: 4.78rem;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    padding-left: 0.37rem;
+    font-size: 0.2633rem;
+    -webkit-appearance: none;
+    border-top-right-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+    padding-top: 0.24rem;
+    padding-bottom: 0.25rem;
+    box-shadow: 0 0.05rem 0.5rem 0 rgba(0, 0, 0, 0.2);
+    border:0;
+}
+.item .btn_search{
+    border:none;
+    background: #c3a874;
+    margin-right: 0.4rem;
+    line-height: 0.7rem;
+    width: 1.71rem;
+    margin-top: -0.5rem;
+    color: #fff;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    box-shadow: 0 0.05rem 0.5rem 0 rgba(0, 0, 0, 0.2);
+}
+.item img{
+    width: 22%;
+    margin-top: 0.22rem;
+    margin-left: 0.16rem;
+    margin-right: 0.05rem;
+}
+.item span{
+    display: block;
+    line-height: 0.78rem;
+    margin-top: 0.04rem;
+    font-size: 0.316rem;
+}
+.item_s{
+    width: 100%;
+    margin-top: -0.4rem;
+    padding-top: 0.91rem;
+    padding-bottom: 1rem;
+}
+.item_s .lm{
+    background: #fff;
+    margin-top: 0.2rem;
+    margin: 0 4.27%;
+    border-radius: 0.2rem;
+    text-align: center;
+    box-shadow: 0 0.05rem 0.5rem 0 rgba(0, 0, 0, 0.2);
+    margin-bottom:0.4rem;
+}
+.item_s .dibf a{
+    display: inline-block;
+}
+.item_s .dibf{
+    border-bottom: 1px dashed #f2f2f2;
+    padding-bottom: 0.4rem;
+}
+.item_s .dibf .img{
+    width: 0.62rem;
+    margin: auto;
+    padding-top: 0.42rem;
+}
+.item_s .dibf .lmmc{
+    color: #000;
+    font-size: 0.24rem;
+    width: 2.3rem;
+}
+.item_s .dibf .lmmc img{
+    width: 20%;
+}
+.item_s .dibf .zlmxs{
+    font-size: 0.2rem;
+    color: #999;
+    text-align: center;
+    margin-top: 0.18rem;
+}
+.item_s .debf{
+    border-bottom: 1px dashed #F2F2F2;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+}
+.item_s .it{
+    display: none;
+}
+.item_s .debf li{
+    width:33.3%;
+}
+.item_s .debf a{
+    color: #000;
+    font-size: 0.2rem;
+    display: block;
+    margin-left: 0.2rem;
+    line-height: 0.6rem;
+}
+.item_s .dsbf{
+    width: 100%;
+    padding-bottom: 0.22rem;
+}
+.item_s .ck{
+    color: #aaa;
+    font-size: 0.2rem;
+    text-align: center;
+    margin-top: 0.18rem;
+}
+.item_s .dsbf img{
+    display: block;
+    width: 0.1rem;
+    height: 0.11rem;
+    margin: auto;
+    margin-top: 0.08rem;
+}
+

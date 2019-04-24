@@ -1,0 +1,61 @@
+.wr .about_banner{
+    width: 100%;
+    height: 5.2rem;
+    background: url(img/images/khfw_banner.jpg) no-repeat center top;
+    background-size: 100% 100%;
+    padding-top: 1.29rem;
+}
+.wr .about_bannern{
+    width: 2.2rem;
+    margin-left: 0.32rem;
+    background: rgba(177,144,81,0.9);
+    height: 3.91rem;
+    color: #fff;
+}
+.wr .about_bannern p{
+    font-size: 0.36rem;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 1.22rem;
+}
+.wr  .about_bannern span{
+    font-size: 0.2rem;
+    text-align: right;
+    display: block;
+    width: 100%;
+    margin-top: 0.05rem;
+    text-transform: uppercase;
+}
+.wr .khfw_o {
+    background: #fff;
+    padding-top: 0.6rem;
+    margin: -1.3rem 4.27%;
+    border-radius: 0.2rem;
+    box-shadow: 0 0.05rem 0.5rem 0 rgba(0, 0, 0, 0.2);
+}
+.wr .khfw_o_o{
+    padding-bottom: 0.52rem;
+    margin: 0 4.27%;
+}
+.wr .khfw_o_o img{
+    display: block;
+    margin-top: 0.36rem;
+}
+.wr .khfw_o_o i{
+    display: block;
+    color: #000;
+    font-size: 0.24rem;
+    font-weight: bold;
+    line-height: 0.42rem;
+    margin: 0 0.1rem;
+    margin-top: 0.36rem;
+    text-align: justify;
+}
+.wr .khfw_o_o  p{
+    color: #000;
+    font-size: 0.2rem;
+    line-height: 0.36rem;
+    margin: 0 0.1rem;
+    margin-top: 0.40rem;
+    text-align: justify;
+}

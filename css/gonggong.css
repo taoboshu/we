@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    box-sizing: border-box;
+}
+img{
+    width:100%;
+    vertical-align: middle;
+}
+a{
+	text-decoration: none;
+}
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
+.clear{clear:both;}
+
+/*　　　　　visibility:hidden;*/
+
+　　　　　
+　　　　　
